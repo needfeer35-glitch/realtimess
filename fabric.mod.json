@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "craftsi",
+  "version": "1.0.0",
+  "name": "Craftsi",
+  "description": "Node-based autocrafting",
+  "authors": ["You"],
+  "entrypoints": {
+    "client": ["net.craftsi.mod.CraftsiMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.1"
+  }
+}
